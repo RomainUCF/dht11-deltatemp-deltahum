@@ -29,3 +29,8 @@ Visual Studio Plugin
 https://marketplace.visualstudio.com/items?itemName=VisualMicro.ArduinoIDEforVisualStudio
 ```
 
+## Gallery
+
+![image](https://user-images.githubusercontent.com/63273069/110584231-e1212a00-813c-11eb-8898-20aacc3b22cb.png)
+
+
