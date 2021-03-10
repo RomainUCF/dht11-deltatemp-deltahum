@@ -29,6 +29,20 @@ Visual Studio Plugin
 https://marketplace.visualstudio.com/items?itemName=VisualMicro.ArduinoIDEforVisualStudio
 ```
 
+## Help Section
+If you are having problem with the serial class:
+ ```matlab
+ Error using serial/fopen (line 72)
+ ```
+ Try running this command to recycles COM ports.
+```matlab
+if ~isempty(instrfind)
+     fclose(instrfind);
+      delete(instrfind);
+end
+```
+
+
 ## Gallery
 
 ![image](https://user-images.githubusercontent.com/63273069/110584231-e1212a00-813c-11eb-8898-20aacc3b22cb.png)
