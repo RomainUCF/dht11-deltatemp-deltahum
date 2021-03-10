@@ -24,5 +24,8 @@ https://circuitdigest.com/microcontroller-projects/matlab-data-logging-analysis-
 ```bash
 https://github.com/adafruit/DHT-sensor-library
 https://github.com/adafruit/Adafruit_Sensor
+
+Visual Studio Plugin 
+https://marketplace.visualstudio.com/items?itemName=VisualMicro.ArduinoIDEforVisualStudio
 ```
 
