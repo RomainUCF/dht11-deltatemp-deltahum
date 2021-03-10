@@ -1,4 +1,4 @@
-## ΔTemperature, ΔHumitidty 
+## Real-time Plot of ΔTemperature, ΔHumitidty 
 Real time analysis of data taken from a DHT11 sensor connected to an arduino and plotted using MATLAB.
 
 ## Hardware 
