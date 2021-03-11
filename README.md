@@ -34,7 +34,7 @@ If you are having problem with the serial class:
  ```matlab
  Error using serial/fopen (line 72)
  ```
- Try running this command to recycles COM ports.
+ Try running this command to recycle COM ports.
 ```matlab
 if ~isempty(instrfind)
      fclose(instrfind);
