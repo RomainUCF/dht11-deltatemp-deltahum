@@ -20,6 +20,8 @@ Real time analysis of data taken from a DHT11 sensor connected to an arduino and
 
 
 ## Software
+
+![dht11](https://user-images.githubusercontent.com/63273069/110886225-52d0b380-82b6-11eb-9bcf-a7dfd771eb3e.jpeg)
 ![Webp net-resizeimage (4)](https://user-images.githubusercontent.com/63273069/110582503-4de6f500-813a-11eb-8f93-d8a5d2b93fe8.png)
 ![Webp net-resizeimage (3)](https://user-images.githubusercontent.com/63273069/110582505-4f182200-813a-11eb-9c17-4a8f7ab2840f.png)
 
@@ -54,5 +56,6 @@ end
 ## Gallery
 
 ![image](https://user-images.githubusercontent.com/63273069/110584231-e1212a00-813c-11eb-8898-20aacc3b22cb.png)
+![image0](https://user-images.githubusercontent.com/63273069/110886277-654aed00-82b6-11eb-980c-344dc51b05f6.jpeg)
 
 
