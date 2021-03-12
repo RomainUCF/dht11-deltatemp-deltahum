@@ -1,5 +1,5 @@
 ## Real-time aquisition of ΔTemperature (C), ΔHumidity (Relative Humidity)
-Real time analysis of data taken from a DHT11 sensor connected to an arduino and plotted using MATLAB. Detailed specifications can be located in the [documentation](https://www.mouser.com/datasheet/2/758/DHT11-Technical-Data-Sheet-Translated-Version-1143054.pdf).
+Real time analysis of data taken from a DHT11 sensor connected to an arduino and plotted using MATLAB. Detailed specifications of the sensor can be located in the [documentation](https://www.mouser.com/datasheet/2/758/DHT11-Technical-Data-Sheet-Translated-Version-1143054.pdf).
 
 
 
