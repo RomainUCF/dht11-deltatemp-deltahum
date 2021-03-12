@@ -10,6 +10,8 @@ Real time analysis of data taken from a DHT11 sensor connected to an arduino and
 
 
 ## Hardware 
+
+![dht11](https://user-images.githubusercontent.com/63273069/110886225-52d0b380-82b6-11eb-9bcf-a7dfd771eb3e.jpeg)
 ![image](https://user-images.githubusercontent.com/63273069/110583564-ddd96e80-813b-11eb-859a-d01e4eacb062.png)
 [Source](http://techtronicharsh.com/2020/03/21/measure-temperature-and-humidity-using-arduino-and-dht11-dht22/)
 
@@ -20,8 +22,6 @@ Real time analysis of data taken from a DHT11 sensor connected to an arduino and
 
 
 ## Software
-
-![dht11](https://user-images.githubusercontent.com/63273069/110886225-52d0b380-82b6-11eb-9bcf-a7dfd771eb3e.jpeg)
 ![Webp net-resizeimage (4)](https://user-images.githubusercontent.com/63273069/110582503-4de6f500-813a-11eb-8f93-d8a5d2b93fe8.png)
 ![Webp net-resizeimage (3)](https://user-images.githubusercontent.com/63273069/110582505-4f182200-813a-11eb-9c17-4a8f7ab2840f.png)
 
